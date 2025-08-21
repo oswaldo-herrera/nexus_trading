@@ -71,6 +71,13 @@ Filename      : responsive.css
     .logo_mobile{
         width: 150px;
     }
+    .logo_mobile_segunda_seccion{
+        width: 200px;
+        margin-bottom: 30px;
+    }
+    .h1_primera_seccion{
+        font-size: 30px;
+    }
 }
 
 @media only screen and (max-width: 699px) {}
