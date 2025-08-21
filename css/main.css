@@ -424,7 +424,7 @@ Filename      : main.css
     
     #servicesection {
         /* background: #FFDB67; */
-        background-image: url("/asset//hero/edificios_felipe_2.jpg");
+        background-image: url("/asset/page/junta.png");
         background-attachment: fixed;
         height: auto;
         padding: 0 0 0;
@@ -454,7 +454,9 @@ Filename      : main.css
     .wrapservice__title {
         font-size: 20px;
         font-weight: 600;
+        color: white;
     }
+
     /*
 * ----------------------------------------------------------------------------------------
 * 06.PORTFOLIO SECTION. 
